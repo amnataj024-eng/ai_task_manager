@@ -1,0 +1,8 @@
+# Versions below were the ones installed when this project was built.
+# Minimum versions are used (>=) so pip can resolve compatible newer releases.
+langgraph>=1.2,<2.0
+google-genai>=2.0,<3.0
+pydantic>=2.8,<3.0
+streamlit>=1.40
+python-dotenv>=1.0
+pytest>=8.0
